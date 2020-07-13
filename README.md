@@ -8,11 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m@zaletskyi.com)](mailto:m@zaletskyi.com)
 
 ### Hi 👋 Welcome to my profile
- → In love with Web Development
- → Currently learning React.js and Python 
- → [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram:  Explain web development in easy way. Sharing my favourite resources & notes
-📍 Toronto, Canada 🇨🇦
-
+ - ✨ In love with Web Development
+ - 🌱 Currently learning React.js and Python 
+ - 👥 [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram: → Explain web development in easy way → Sharing my favourite resources & notes
+ - 📍 Toronto, Canada 🇨🇦
 
 <!-- 
  
