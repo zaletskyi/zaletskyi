@@ -1,4 +1,5 @@
 # Michael Zaletskyi
+### 𝙵𝚛𝚘𝚗𝚝 𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zaletskyi)](https://github.com/zaletskyi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaletskyi/)](https://www.linkedin.com/in/zaletskyi/)
@@ -7,15 +8,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m@zaletskyi.com)](mailto:m@zaletskyi.com)
 
 ### Hi 👋 Welcome to my profile
-
-I focus on cutting edge technologies but with graceful degradation for old browsers. I like to write clean code, develop usable interfaces, and make awesome web applications and websites. 
-
  - ✨ In love with Web Development
  - 🌱 Currently learning React.js and Python 
  - 👥 [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram: → Explain web development in easy way → Sharing my favourite resources & notes
  - 📍 Toronto, Canada 🇨🇦
 
-<!--
+
+<!-- 
+ 
 ### Experience
 #### Front End Web Developer
 ##### VerticalScope Inc. Full-time
