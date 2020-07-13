@@ -1,4 +1,4 @@
-# Michael Zaletskyi :man_technologist:
+# Michael Zaletskyi
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zaletskyi)](https://github.com/zaletskyi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zaletskyi/)](https://www.linkedin.com/in/zaletskyi/)
@@ -12,7 +12,7 @@ My name is Michael and I'm front-end developer.
 
  - ✨ In love with Web Development
  - 🌱 Currently learning React.js and Python 
- - ⚡ [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram: → Explain web development in easy way → Sharing my favourite resources & notes
+ - 👥 [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram: → Explain web development in easy way → Sharing my favourite resources & notes
  - 📍 Toronto, Canada 🇨🇦
 
 
