@@ -15,6 +15,7 @@ I focus on cutting edge technologies but with graceful degradation for old brows
  - 👥 [@zaletkyi](https://www.instagram.com/zaletskyi/) on instagram: → Explain web development in easy way → Sharing my favourite resources & notes
  - 📍 Toronto, Canada 🇨🇦
 
+<!--
 ### Experience
 #### Front End Web Developer
 ##### VerticalScope Inc. Full-time
@@ -49,7 +50,7 @@ CSS framework: Bootstrap, Materialize, Foundation;
 #### Ternopil State 'Ivan Pul'uj' Technical University
 ##### Degree NameMaster of Degree, Computer ScienceField Of StudyComputer Science
 2009 – 2010
-
+-->
 <!--
 **zaletskyi/zaletskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
