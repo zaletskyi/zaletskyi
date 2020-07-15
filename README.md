@@ -7,7 +7,42 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/zaletskyi/)](https://www.instagram.com/zaletskyi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m@zaletskyi.com)](mailto:m@zaletskyi.com)
 
+#### Tech skills
+<details>
+	<summary>Front-end</summary>
+	<ul>
+  <li>HTML5, CSS3, JS, SVG;</li>
+  <li>Bootstrap, Foundation, Materialize;</li>
+  <li>jQuery, ES6, Frontity, React(in progress);</li>
+  <li>npm, Yarn, Grunt, SASS;</li>
+  <li>AJAX, REST API, JSON;</li>
+  <li>SEO, Google Analytics, AMP, PWA;</li>
+  <li>Photoshop, Zeplin, Figma(in progress).</li>
+ </ul>
+</details>
+
+<details>
+	<summary>Back-end</summary>
+	<ul>
+  <li>PHP, Node.js, ExpressJS, Python(in progress);</li>
+  <li>MySQL, MongoDB(in progress);</li>
+  <li>CMS: Wordpress, vBulletin, xenForo;</li>
+  <li>Git, bash, Sourcetree.</li>
+ </ul>
+</details>
+
+<details>
+	<summary>Dev Ops</summary>
+	<ul>
+  <li>Google Cloud, Vercel;</li>
+  <li>Cloud Run, Cloud SQL, Cloud Storage;</li>
+  <li>GitHub, Jenkins, Cloud Build.</li>
+  <li>Cloudflare, Apache, nginx.</li>
+ </ul>
+</details>
+
 ### Hi 👋 Welcome to my profile
+
 <!-- 
  - ✨ In love with Web Development
  - 🌱 Currently learning React.js and Python 
