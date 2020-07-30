@@ -48,6 +48,8 @@
 
 <img align="left" alt="Michael Zaletskyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaletskyi&show_icons=true&hide_border=true&count_private=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaletskyi&count_private=true)](https://github.com/zaletskyi/)
+
 <!-- 
  - ✨ In love with Web Development
  - 🌱 Currently learning React.js and Python 
