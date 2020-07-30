@@ -43,6 +43,11 @@
 
 ### Hi 👋 Welcome to my profile
 
+
+---
+
+<img align="left" alt="Michael Zaletskyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zaletskyi&show_icons=true&hide_border=true&count_private=true" />
+
 <!-- 
  - ✨ In love with Web Development
  - 🌱 Currently learning React.js and Python 
